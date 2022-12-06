@@ -1,4 +1,6 @@
 Hi, this is our final project called Reddit AITA Analyzer by Ernest Wong and Stela Licheva.
+Here is a video demonstrating our project: https://youtu.be/Ou89_Ign2hM
+
 
 In this project, I learned how to use HTML. We wanted a way to present the output of our python code and I found that the easiest way would 
 probably be through using HTML. I experiented a lot with other methods at first such as creating a web page through python and using things like
