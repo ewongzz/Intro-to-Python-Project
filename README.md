@@ -13,5 +13,5 @@ file path name and opening the html file through that. However, everyone's file 
 work for other people as well when running it on their computer. For everyone else, it will just create the html file on their computer but they
 have to manually open it themselves. I also learned a lot about sentiment analyzers through the use of the vader module and I also was introduced
 to the praw module which is used for reddit.
-Overall, I really enjoyed the project and found it to be overall very sucessful. I was happy with the results we got and what I was able to learn
+Overall, I really enjoyed the project and found it to be overall very sucessful. I am happy with the results we got and what I was able to learn
 from this project.
